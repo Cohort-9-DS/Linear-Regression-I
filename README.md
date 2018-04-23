@@ -3,6 +3,8 @@ Ordinary Least Squares
 
 Use the attached file, mlr04, the dataset description is here (click on hollywood movies): http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/mlr/frames/frame.html
 
+Use, X1 = first year box office receipts/millions as your Y. The remaning 3 are now your variables. 
+
 Do the following:
 
 1) Split the dataset into training (80% of data) and test (20% of data)
